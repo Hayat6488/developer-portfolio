@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-content {
     display: flex;
     padding-bottom: 60px;
     padding-top: 40px;
@@ -56,4 +56,8 @@ section {
     font-size: 20px;
     text-align: justify;
     padding-right: 5px;
+}
+
+.flexible-content1 {
+    display: flex;
 }
